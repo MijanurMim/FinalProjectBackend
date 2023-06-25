@@ -8,8 +8,8 @@ import { IUser } from './user.interface';
 
 const createPatient: RequestHandler = catchAsync(
   async (req: Request, res: Response) => {
-    const { Patient, ...userData } = req.body;
-    const result = await UserService.createPatient(Patient, userData);
+    const { patient, ...userData } = req.body;
+    const result = await UserService.createPatient(patient, userData);
 
     sendResponse<IUser>(res, {
       statusCode: httpStatus.OK,

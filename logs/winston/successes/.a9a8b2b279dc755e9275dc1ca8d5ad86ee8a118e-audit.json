@@ -29,6 +29,11 @@
             "date": 1687715683848,
             "name": "D:\\finalProjectBackend\\logs\\winston\\successes\\MRM-2023-25-06-23-success.log",
             "hash": "f1b957ba030cd78081ed9c24749d74a90e206671611396d7d84f1018813f7854"
+        },
+        {
+            "date": 1687716377226,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\successes\\MRM-2023-26-06-00-success.log",
+            "hash": "d459d4bf63b0e78c865990a03dcbdc4bd76580700800303e8fbe9c38154ea2e8"
         }
     ],
     "hashType": "sha256"

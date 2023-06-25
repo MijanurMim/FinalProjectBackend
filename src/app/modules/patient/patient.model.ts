@@ -62,6 +62,18 @@ export const patientSchema = new Schema<IPatient, PatientModel>(
       type: String,
       required: true,
     },
+    previousHistory: {
+      type: String,
+      required: true,
+    },
+    previousPrescriptions: {
+      type: String,
+      required: true,
+    },
+    currentDisease: {
+      type: String,
+      required: true,
+    },
 
     profileImage: {
       type: String,
@@ -71,7 +83,6 @@ export const patientSchema = new Schema<IPatient, PatientModel>(
     diseaseInfo: {
       type: Schema.Types.ObjectId,
       ref: 'DiseaseInfo',
-      required: true,
     },
   },
   {

@@ -36,6 +36,8 @@ const createPatient = async (
     const id = await generatePatientId();
     user.id = id;
     patient.id = id;
+
+    console.log(patient.id, 'patient id check ');
     const newPatient = await Patient.create([patient], { session });
 
     if (!newPatient.length) {

@@ -23,7 +23,7 @@ export type IPatient = {
   previousPrescriptions?: string;
   currentDisease?: string;
   profileImage?: string;
-  diseaseInfo: Types.ObjectId | IDiseaseInfo;
+  diseaseInfo?: Types.ObjectId | IDiseaseInfo;
 };
 
 export type IPatientFilters = {

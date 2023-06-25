@@ -29,6 +29,11 @@
             "date": 1687715683852,
             "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-25-06-23-error.log",
             "hash": "4cd6fea26291e4f09d37b9a84def85ff379617bd10ed73da2a51189a7e539920"
+        },
+        {
+            "date": 1687716377230,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-26-06-00-error.log",
+            "hash": "b9a4a78514a61708b7ae70ac95aff2a684bed0bfdf781afdb4b2cfd9d5808c8b"
         }
     ],
     "hashType": "sha256"

@@ -58,6 +58,11 @@ const createPatientZodSchema = z.object({
       currentDisease: z.string({
         required_error: 'Current Disease is Required',
       }),
+      diseaseInfo: z
+        .string({
+          required_error: 'Disease Info is Required',
+        })
+        .optional(),
 
       profileImage: z
         .string({

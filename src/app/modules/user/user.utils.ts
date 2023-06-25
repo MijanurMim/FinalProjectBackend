@@ -4,7 +4,7 @@ import { User } from './user.model';
 
 // Generate Patient Id
 export const findLastPatientId = async (): Promise<string | undefined> => {
-  const lastPatient = await User.findOne({ role: 'Patient' }, { id: 1, _id: 0 })
+  const lastPatient = await User.findOne({ role: 'patient' }, { id: 1, _id: 0 })
     .sort({
       createdAt: -1,
     })
