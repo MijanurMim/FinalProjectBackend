@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\finalProjectBackend\\logs\\winston\\errors\\.425d847a4f513ef6a0565ff117863a37b3c00dd9-audit.json",
+    "files": [
+        {
+            "date": 1687609069855,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-24-06-18-error.log",
+            "hash": "c78ad96445460e74f7ffc2c24624cc4371e5f0359ac8003de594573301a086ed"
+        },
+        {
+            "date": 1687680273416,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-25-06-14-error.log",
+            "hash": "b1e1369c9ce22bc7010205dc77a9e0dd2aa9a8505727c576bb2f09157a928310"
+        },
+        {
+            "date": 1687687557800,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-25-06-16-error.log",
+            "hash": "1cc2d606d54244220affd2ea5f6948c55c21bb9a467caa5239d63d51e6411543"
+        },
+        {
+            "date": 1687692504112,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-25-06-17-error.log",
+            "hash": "1ce26fc96051b8797ff5697d0c73be5ab2f4052848456809d56735fa1a49482f"
+        },
+        {
+            "date": 1687715683852,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-25-06-23-error.log",
+            "hash": "4cd6fea26291e4f09d37b9a84def85ff379617bd10ed73da2a51189a7e539920"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,1 @@
+Wed Jun 14 2023 13:10:21 => [MRM ERR] error: Failed To Connect Database => The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string. 

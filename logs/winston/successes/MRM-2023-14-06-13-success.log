@@ -1,0 +1,36 @@
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T07:09:17.623Z'
+}
+{
+  message: 'Application app listening on port 5000',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T07:09:17.634Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T07:11:06.777Z'
+}
+{
+  message: 'Application app listening on port 5000',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T07:11:06.789Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T07:11:46.904Z'
+}
+{
+  message: 'Application app listening on port 5000',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T07:11:46.915Z'
+}

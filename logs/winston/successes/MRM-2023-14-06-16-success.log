@@ -1,0 +1,68 @@
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T10:22:10.514Z'
+}
+{
+  message: 'Application app listening on port 5000',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T10:22:10.521Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T10:31:22.575Z'
+}
+{
+  message: 'Application app listening on port 5000',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T10:31:22.584Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T10:32:51.325Z'
+}
+{
+  message: 'Application app listening on port 5000',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T10:32:51.334Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T10:33:06.282Z'
+}
+{
+  message: 'Application app listening on port 5000',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T10:33:06.292Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T10:33:09.558Z'
+}
+{
+  message: 'Application app listening on port 5000',
+  level: 'info',
+  label: 'MRM',
+  timestamp: '2023-06-14T10:33:09.576Z'
+}
+Wed Jun 14 2023 16:33:38 => [MRM] info: Database is connected successfully 
+Wed Jun 14 2023 16:33:38 => [MRM] info: Application app listening on port 5000 
+Wed Jun 14 2023 16:34:53 => [MRM] info: Database is connected successfully 
+Wed Jun 14 2023 16:34:53 => [MRM] info: Application app listening on port 5000 
+Wed Jun 14 2023 16:35:43 => [MRM] info: Database is connected successfully 
+Wed Jun 14 2023 16:35:43 => [MRM] info: Application app listening on port 5000 
+Wed Jun 14 2023 16:35:49 => [MRM] info: Database is connected successfully 
+Wed Jun 14 2023 16:35:49 => [MRM] info: Application app listening on port 5000 

@@ -1,0 +1,2 @@
+Wed Jun 21 2023 23:42:21 => [MRM Err] error: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED] 
+Wed Jun 21 2023 23:43:6 => [MRM Err] error: Attempted illegal state transition from [TRANSACTION_ABORTED] to [TRANSACTION_COMMITTED] 

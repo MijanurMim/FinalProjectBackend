@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\finalProjectBackend\\logs\\winston\\successes\\.a9a8b2b279dc755e9275dc1ca8d5ad86ee8a118e-audit.json",
+    "files": [
+        {
+            "date": 1687609069851,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\successes\\MRM-2023-24-06-18-success.log",
+            "hash": "af00ff2c691ab7bee1711ea085f73e9fbe20c2bc0ed52e7eda1244c4114f89c1"
+        },
+        {
+            "date": 1687680273412,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\successes\\MRM-2023-25-06-14-success.log",
+            "hash": "6fb0b1c6db750b539328bd71923559350fad3cf555df31164e534d73951168b9"
+        },
+        {
+            "date": 1687687557796,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\successes\\MRM-2023-25-06-16-success.log",
+            "hash": "6e0e01d4f7705d158641534dacf8798ee67e45e40b076e6861e7df9b0d8cd362"
+        },
+        {
+            "date": 1687692504107,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\successes\\MRM-2023-25-06-17-success.log",
+            "hash": "1c1040c13879f2dbd81d5432930a38bd3e2e0ea40ea318b41e6df5f8c621bd51"
+        },
+        {
+            "date": 1687715683848,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\successes\\MRM-2023-25-06-23-success.log",
+            "hash": "f1b957ba030cd78081ed9c24749d74a90e206671611396d7d84f1018813f7854"
+        }
+    ],
+    "hashType": "sha256"
+}
