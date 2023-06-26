@@ -113,7 +113,7 @@ const createDoctorZodSchema = z.object({
         required_error: 'Medical Qualifications is required',
       }),
 
-      SpecialistIn: z.string({
+      specialistIn: z.string({
         required_error: 'Specialist in is required',
       }),
 

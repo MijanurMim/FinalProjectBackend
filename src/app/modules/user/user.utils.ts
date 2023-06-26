@@ -40,7 +40,7 @@ export const generateDoctorId = async (): Promise<string> => {
 
   let incrementedId = (parseInt(currentId) + 1).toString().padStart(5, '0');
 
-  incrementedId = `Dr-${incrementedId}`;
+  incrementedId = `D-${incrementedId}`;
 
   return incrementedId;
 };

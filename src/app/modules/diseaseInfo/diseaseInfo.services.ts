@@ -10,7 +10,7 @@ import { DiseaseInfo } from './diseaseInfo.model';
 const createDiseaseInfo = async (
   payload: IDiseaseInfo
 ): Promise<IDiseaseInfo> => {
-  const result = (await DiseaseInfo.create(payload)).populate('Faculty');
+  const result = await DiseaseInfo.create(payload);
 
   return result;
 };
@@ -56,7 +56,6 @@ const getAllDiseaseInfos = async (
     andConditions.length > 0 ? { $and: andConditions } : {};
 
   const result = await DiseaseInfo.find(whereConditions)
-    .populate('Faculty')
     .sort(sortConditions)
     .skip(skip)
     .limit(limit);

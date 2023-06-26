@@ -6,7 +6,7 @@ import { DiseaseInfoController } from './diseaseInfo.controller';
 const router = express.Router();
 
 router.post(
-  '/create-department',
+  '/create-disease',
   validateRequest(DiseaseInfoValidation.createDiseaseInfoZodSchema),
   DiseaseInfoController.createDiseaseInfo
 );

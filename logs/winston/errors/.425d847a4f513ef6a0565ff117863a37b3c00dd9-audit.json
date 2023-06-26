@@ -34,6 +34,21 @@
             "date": 1687716377230,
             "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-26-06-00-error.log",
             "hash": "b9a4a78514a61708b7ae70ac95aff2a684bed0bfdf781afdb4b2cfd9d5808c8b"
+        },
+        {
+            "date": 1687759143946,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-26-06-11-error.log",
+            "hash": "bd946f53e1a7122d46f8f05c0e747f8c4ae0abace839cca3c66c16595c0cac80"
+        },
+        {
+            "date": 1687762074297,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-26-06-12-error.log",
+            "hash": "637d632d4a865e7cdfbd4fe0abccf596530a391c3067e6a6e7e4916e9a715a57"
+        },
+        {
+            "date": 1687763977831,
+            "name": "D:\\finalProjectBackend\\logs\\winston\\errors\\MRM-2023-26-06-13-error.log",
+            "hash": "b86057edd72c7a001d3a601ba33f9743616cd890503476140acaf918dadaf892"
         }
     ],
     "hashType": "sha256"
