@@ -49,7 +49,6 @@ const getAllAdmins = async (
     andConditions.length > 0 ? { $and: andConditions } : {};
 
   const result = await Admin.find(whereConditions)
-    .populate('managementDepartment')
     .sort(sortConditions)
     .skip(skip)
     .limit(limit);
@@ -67,7 +66,7 @@ const getAllAdmins = async (
 };
 
 const getSingleAdmin = async (id: string): Promise<IAdmin | null> => {
-  const result = await Admin.findOne({ id }).populate('managementDepartment');
+  const result = await Admin.findOne({ id });
   return result;
 };
 

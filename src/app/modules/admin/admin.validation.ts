@@ -2,11 +2,13 @@ import { z } from 'zod';
 
 const updateAdmin = z.object({
   body: z.object({
-    name: z.object({
-      firstName: z.string().optional(),
-      lastName: z.string().optional(),
-      middleName: z.string().optional(),
-    }),
+    name: z
+      .object({
+        firstName: z.string().optional(),
+        lastName: z.string().optional(),
+        middleName: z.string().optional(),
+      })
+      .optional(),
 
     dateOfBirth: z.string().optional(),
 
@@ -23,10 +25,6 @@ const updateAdmin = z.object({
     presentAddress: z.string().optional(),
 
     permanentAddress: z.string().optional(),
-
-    department: z.string().optional(),
-
-    designation: z.string().optional(),
 
     profileImage: z.string().optional(),
   }),
